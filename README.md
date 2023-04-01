@@ -14,5 +14,6 @@ The program also includes some helper functions for displaying the puzzle and wa
 
 ## Sudoku Generator
 
-<img align="center" alt="choice" src="assests/choice.png"/>
+![alt text](image_path "assests/choice.png")
+
 
