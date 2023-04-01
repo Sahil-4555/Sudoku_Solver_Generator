@@ -12,30 +12,30 @@ The solveSudoku function uses the same backtracking algorithm to solve the puzzl
 
 The program also includes some helper functions for displaying the puzzle and waiting for a certain amount of time. The setCursorPosition function uses the Windows API to set the console cursor position, allowing the program to update the display without flickering. The sleep function uses the std::this_thread::sleep_for function to wait for a certain amount of time.
 
-## Sudoku Generator
+# Sudoku Generator
 
 ![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/choice.png)
 
-# Gnerated Sudoku
+## Generated Sudoku
 
 ![Generated](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/Generated%20Sudoku.png)
 
-# Solved Generated Sudoku
+## Solved Generated Sudoku
 
 ![Solved Generated Sudoku](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/solved%20generated%20sudoku.png)
 
-## Sudoku Solver
+# Sudoku Solver
 
-# Solving This Sudoku
+## Solving This Sudoku
 ![Solving Sudo](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/Solving%20Sudoku.png)
 
-# Entering Sudoku
+## Entering Sudoku
 ![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/entering%20sudoku.png)
 
-# Entered Sudoku
+## Entered Sudoku
 ![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/entered%20sudoku.png)
 
-# Solved Entered Sudoku
+## Solved Entered Sudoku
 ![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/solved%20entered%20sudoku.png)
 
 
