@@ -14,6 +14,6 @@ The program also includes some helper functions for displaying the puzzle and wa
 
 ## Sudoku Generator
 
-![alt text](image_path "https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/choice.png")
+![Web Login](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/choice.png)
 
 
