@@ -1,4 +1,4 @@
-##Sudoku Solver
+## Sudoku Solver
 
 Run The cpp file Using Command:
 
@@ -12,7 +12,7 @@ The solveSudoku function uses the same backtracking algorithm to solve the puzzl
 
 The program also includes some helper functions for displaying the puzzle and waiting for a certain amount of time. The setCursorPosition function uses the Windows API to set the console cursor position, allowing the program to update the display without flickering. The sleep function uses the std::this_thread::sleep_for function to wait for a certain amount of time.
 
-##Sudoku Generator
+## Sudoku Generator
 
-<img align="center" alt="GIF" src="assets/choice.png"/>
+<img align="center" alt="choice" src="assests/choice.png"/>
 
