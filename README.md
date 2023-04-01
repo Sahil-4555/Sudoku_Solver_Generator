@@ -14,6 +14,36 @@ The program also includes some helper functions for displaying the puzzle and wa
 
 ## Sudoku Generator
 
-![Web Login](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/choice.png)
+![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/choice.png)
+
+# Gnerated Sudoku
+
+![Generated](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/Generated%20Sudoku.png)
+
+# Solved Generated Sudoku
+
+![Solved Generated Sudoku](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/solved%20generated%20sudoku.png)
+
+## Sudoku Solver
+
+# Solving This Sudoku
+![Solving Sudo](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/Solving%20Sudoku.png)
+
+# Entering Sudoku
+![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/entering%20sudoku.png)
+
+# Entered Sudoku
+![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/entered%20sudoku.png)
+
+# Solved Entered Sudoku
+![Choice](https://github.com/Sahil-4555/Sudoku_Solver/blob/master/assests/solved%20entered%20sudoku.png)
+
+
+
+
+
+
+
+
 
 
