@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver & Generator
 
 Run The cpp file Using Command:
 
